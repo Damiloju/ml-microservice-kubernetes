@@ -1,4 +1,4 @@
-[![<Damiloju>](https://circleci.com/<gh>/<Damiloju>/<ml-microservice-kubernetes>.svg?style=svg)](https://circleci.com/gh/Damiloju/ml-microservice-kubernetes)
+[![CircleCI](https://circleci.com/gh/Damiloju/ml-microservice-kubernetes.svg?style=svg)](https://circleci.com/gh/Damiloju/ml-microservice-kubernetes)
 
 ## Project Overview
 
