@@ -6,12 +6,12 @@
 # Step 1:
 # Create dockerpath
 dockerpath=damiloju/ml-udacity
-docker login
-docker tag app $dockerpath
 
 # Step 2:
 # Authenticate & tag
 echo "Docker ID and Image: $dockerpath"
+docker login
+docker tag app $dockerpath
 
 # Step 3:
 # Push image to a docker repository
